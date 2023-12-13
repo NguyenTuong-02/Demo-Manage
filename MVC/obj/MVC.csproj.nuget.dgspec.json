@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project nhom6\\BTL_Nhom6\\MVC\\MVC.csproj": {}
+    "D:\\Nhom6\\BTL_Nhom6\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "D:\\Project nhom6\\BTL_Nhom6\\MVC\\MVC.csproj": {
+    "D:\\Nhom6\\BTL_Nhom6\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project nhom6\\BTL_Nhom6\\MVC\\MVC.csproj",
+        "projectUniqueName": "D:\\Nhom6\\BTL_Nhom6\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "D:\\Project nhom6\\BTL_Nhom6\\MVC\\MVC.csproj",
-        "packagesPath": "C:\\Users\\vinh khanh\\.nuget\\packages\\",
-        "outputPath": "D:\\Project nhom6\\BTL_Nhom6\\MVC\\obj\\",
+        "projectPath": "D:\\Nhom6\\BTL_Nhom6\\MVC\\MVC.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Nhom6\\BTL_Nhom6\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vinh khanh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
