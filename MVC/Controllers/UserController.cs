@@ -30,8 +30,7 @@ namespace MVC.Controllers
             return View();
         }
 
-        /// <summary>
-        /// Tạo mới sinh viên mượn sách
+
         /// </summary>
         /// <param name="sinhVien"></param>
         /// <returns></returns>

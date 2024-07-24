@@ -133,7 +133,7 @@ namespace MVC.Controllers
                 // Đặt lại mô hình tìm kiếm về trạng thái ban đầu
                 searchModel = new ClothesViewModel();
             }
-            // Assuming your Clothes class has a navigation property named Book
+            // Giả sử lớp Quần áo của bạn có thuộc tính điều hướng có tên Sách
             List<ClothesViewModel> result = await _context.Clothes
             .Select(clothes => new ClothesViewModel
             {
@@ -183,7 +183,7 @@ namespace MVC.Controllers
         //Vu Ngoc Tuyen 2021050715
         public async Task<IActionResult> ExportToExcel()
         {
-            // Lấy danh sách sinh viên từ cơ sở dữ liệu
+            // Lấy danh sách Colthes từ cơ sở dữ liệu
             List<ClothesViewModel> result = await _context.Clothes
             .Select(clothes => new ClothesViewModel
             {
