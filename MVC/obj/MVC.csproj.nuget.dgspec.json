@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nhom6\\BTL_Nhom6\\MVC\\MVC.csproj": {}
+    "E:\\BTL_Nhom6\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "D:\\Nhom6\\BTL_Nhom6\\MVC\\MVC.csproj": {
+    "E:\\BTL_Nhom6\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nhom6\\BTL_Nhom6\\MVC\\MVC.csproj",
+        "projectUniqueName": "E:\\BTL_Nhom6\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "D:\\Nhom6\\BTL_Nhom6\\MVC\\MVC.csproj",
+        "projectPath": "E:\\BTL_Nhom6\\MVC\\MVC.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Nhom6\\BTL_Nhom6\\MVC\\obj\\",
+        "outputPath": "E:\\BTL_Nhom6\\MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
